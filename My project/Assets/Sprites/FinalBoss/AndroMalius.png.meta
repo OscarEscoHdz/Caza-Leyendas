@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: d5a3a09b99ed9d54699e36acb75c05bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1951953570543432275
+    second: AndroMalius_0
+  - first:
+      213: -749740709182769419
+    second: AndroMalius_1
+  - first:
+      213: 6685415482307006761
+    second: AndroMalius_2
+  - first:
+      213: 3173066038421015929
+    second: AndroMalius_3
+  - first:
+      213: -6348445003809983822
+    second: AndroMalius_4
+  - first:
+      213: 3653063271552650631
+    second: AndroMalius_5
+  - first:
+      213: -5792105360408675441
+    second: AndroMalius_6
+  - first:
+      213: -2174063036205726872
+    second: AndroMalius_7
+  - first:
+      213: 7349779179143368606
+    second: AndroMalius_8
+  - first:
+      213: -5181076159443652314
+    second: AndroMalius_9
+  - first:
+      213: 7112054582199512598
+    second: AndroMalius_10
+  - first:
+      213: 155931729264019114
+    second: AndroMalius_11
+  - first:
+      213: 6226812084925116797
+    second: AndroMalius_12
+  - first:
+      213: 1057224358128480034
+    second: AndroMalius_13
+  - first:
+      213: 4401553142844938951
+    second: AndroMalius_14
+  - first:
+      213: 4131946453230326462
+    second: AndroMalius_15
+  - first:
+      213: -5682689912958379630
+    second: AndroMalius_16
+  - first:
+      213: 9118600406776037437
+    second: AndroMalius_17
+  - first:
+      213: -8743297401797263332
+    second: AndroMalius_18
+  - first:
+      213: -8703468189588207134
+    second: AndroMalius_19
+  - first:
+      213: 7338968652260121852
+    second: AndroMalius_20
+  - first:
+      213: -1884250541962973666
+    second: AndroMalius_21
+  - first:
+      213: 4966325190820738058
+    second: AndroMalius_22
+  - first:
+      213: 2500325916591320085
+    second: AndroMalius_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AndroMalius_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad04b9c19449e4e0800000000000000
+      internalID: -1951953570543432275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 177
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f28b1cc26895f0800000000000000
+      internalID: -749740709182769419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9215ec6d5fd57cc50800000000000000
+      internalID: 6685415482307006761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 177
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc0f410cef80c20800000000000000
+      internalID: 3173066038421015929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 177
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b27dcf87eac5e7a0800000000000000
+      internalID: -6348445003809983822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 177
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d0ce2d0b942b230800000000000000
+      internalID: 3653063271552650631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 177
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7433dcde4e9fa0800000000000000
+      internalID: -5792105360408675441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 177
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86386afef2d24d1e0800000000000000
+      internalID: -2174063036205726872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f076ef839aff560800000000000000
+      internalID: 7349779179143368606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 89
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bd1afeae1918b0800000000000000
+      internalID: -5181076159443652314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 89
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee03316f713b260800000000000000
+      internalID: 7112054582199512598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa68ef3e41bf92200800000000000000
+      internalID: 155931729264019114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 89
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713215a9941a6650800000000000000
+      internalID: 6226812084925116797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 89
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f632ac3f30cae00800000000000000
+      internalID: 1057224358128480034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad6435345751d30800000000000000
+      internalID: 4401553142844938951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 89
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29abf386f975930800000000000000
+      internalID: 4131946453230326462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999b61e1a70321b0800000000000000
+      internalID: -5682689912958379630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d304e9ee1c6cb8e70800000000000000
+      internalID: 9118600406776037437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104748465199a680800000000000000
+      internalID: -8743297401797263332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9cea56bc1173780800000000000000
+      internalID: -8703468189588207134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc11bf0b1149d560800000000000000
+      internalID: 7338968652260121852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ea5728d1cc9d5e0800000000000000
+      internalID: -1884250541962973666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04b1f5c27eebe440800000000000000
+      internalID: 4966325190820738058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AndroMalius_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce0218c21f2b220800000000000000
+      internalID: 2500325916591320085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AndroMalius_0: -1951953570543432275
+      AndroMalius_1: -749740709182769419
+      AndroMalius_10: 7112054582199512598
+      AndroMalius_11: 155931729264019114
+      AndroMalius_12: 6226812084925116797
+      AndroMalius_13: 1057224358128480034
+      AndroMalius_14: 4401553142844938951
+      AndroMalius_15: 4131946453230326462
+      AndroMalius_16: -5682689912958379630
+      AndroMalius_17: 9118600406776037437
+      AndroMalius_18: -8743297401797263332
+      AndroMalius_19: -8703468189588207134
+      AndroMalius_2: 6685415482307006761
+      AndroMalius_20: 7338968652260121852
+      AndroMalius_21: -1884250541962973666
+      AndroMalius_22: 4966325190820738058
+      AndroMalius_23: 2500325916591320085
+      AndroMalius_3: 3173066038421015929
+      AndroMalius_4: -6348445003809983822
+      AndroMalius_5: 3653063271552650631
+      AndroMalius_6: -5792105360408675441
+      AndroMalius_7: -2174063036205726872
+      AndroMalius_8: 7349779179143368606
+      AndroMalius_9: -5181076159443652314
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

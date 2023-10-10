@@ -181,7 +181,7 @@ public class ControlladorHeroe : MonoBehaviour, ITargetCombat
             AudioManager.instance.PlayASfx(attackSfx);
             animatorController.Play(AnimationID.Attack);
             playerIsAttacking = true;
-            swordController.Attack(0.35f);
+            swordController.Attack(0.1f,0.35f);
             StartCoroutine(RestoreAttack());
         }
     }

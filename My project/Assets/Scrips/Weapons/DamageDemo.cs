@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DamageDemo : MonoBehaviour, ITargetCombat
 {
+    
+
     [SerializeField] int health =80;
 
     [SerializeField] DamageFeedbackEffect damageFeedbackEffect;
@@ -12,5 +14,12 @@ public class DamageDemo : MonoBehaviour, ITargetCombat
     {
         damageFeedbackEffect.PlayDamageEffect();
         health -= damagePoints;
+        if (health <= 0)
+        {
+            Destroy(gameObject);
+        }
+        
     }
+
+
 }

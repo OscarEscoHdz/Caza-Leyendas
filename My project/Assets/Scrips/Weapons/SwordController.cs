@@ -21,27 +21,36 @@ public class SwordController : MonoBehaviour
     }
 
 
-    public void Attack(float attackDuration) 
+    public void Attack(float delay,float attackDuration) 
     {
-        collider2D.enabled = true;
-        StartCoroutine(_Attack(attackDuration));
+        //collider2D.enabled = true;
+        StartCoroutine(_Attack(delay ,attackDuration));
     }
 
 
-    private IEnumerator _Attack(float attackDuration) 
+    private IEnumerator _Attack(float delay, float attackDuration) 
     {
+        yield return new WaitForSeconds(delay);
+        collider2D.enabled = true;
+
         yield return new WaitForSeconds(attackDuration);
         collider2D.enabled = false;
+
+        yield return new WaitForSeconds(attackDuration);
+        Awake();
         
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag.Equals(targetTag.ToString()));
-        var component = collision.gameObject.GetComponent<ITargetCombat>();
-        if (component != null) 
+        if (collision.gameObject.tag.Equals(targetTag.ToString()))
         {
-            component.TakeDamage(damagePoints);
+            var component = collision.gameObject.GetComponent<ITargetCombat>();
+            if (component != null)
+            {
+                component.TakeDamage(damagePoints);
+            }
+
         }
     }
 }
